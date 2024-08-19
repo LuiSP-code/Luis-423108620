@@ -1,0 +1,36 @@
+*,*:before,*:after{
+    box-sizing: inherit;
+}
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+.navegacion{
+    font-family: monospace;
+    font-size: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}  
+.centrado{
+    text-align: center;
+    margin: 0 auto;
+}
+a{
+   text-decoration: none;
+}
+.imagen{
+    width: 30%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.orientacion{
+    margin: 3rem ;
+    display: grid;
+    column-gap: 2rem;
+    grid-template-columns: 20% 60% 20%;
+}
