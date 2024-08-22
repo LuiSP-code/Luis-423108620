@@ -7,4 +7,5 @@ a=prompt('Como te llamas?');
 e=prompt('Cual es tu edad?');
 
 console.log(`Tu nombre es: ${a}`)
-console.log(`Tu nombre es: ${e}`)
+console.log(`Tu edad es: ${e}`)
+
