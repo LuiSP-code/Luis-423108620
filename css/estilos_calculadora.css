@@ -21,6 +21,10 @@ html{
  padding: 3rem 15rem;
  border:none;
  border-radius: 3rem;
+ color: white;
+ font-size: 3rem;
+ font-weight: bolder;
+ text-align: center;
 }
 input[type="button"]{
     width: 6rem;
